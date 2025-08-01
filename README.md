@@ -17,6 +17,7 @@ The tests cover:
 git clone (https://github.com/gowrob/Automation-test-by-Playwright/)
 2. Install Dependencies
 Make sure you have Node.js (>=16) installed, then run:
+copy and paste the tests.js file to the test folder and then run
 
 bash
 npm install
